@@ -117,7 +117,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <div className="text-3xl font-bold neon-glow">TITAN</div>
+              <div className="text-3xl font-bold neon-glow">HATE NOOBSS</div>
               <Badge variant="outline" className="border-primary text-primary">PRO TEAM</Badge>
             </div>
             
@@ -159,7 +159,7 @@ const Index = () => {
                 Чемпионы 2024
               </Badge>
               <h1 className="text-6xl md:text-8xl font-bold neon-glow">
-                TITAN
+                HATE NOOBSS
               </h1>
               <p className="text-xl text-muted-foreground">
                 Элитный клан PUBG Mobile | Top 5 Russia
@@ -200,8 +200,8 @@ const Index = () => {
             <div className="relative animate-slide-up">
               <div className="absolute inset-0 bg-primary/20 blur-3xl rounded-full" />
               <img 
-                src="https://cdn.poehali.dev/projects/c741f24d-2d73-4617-8883-92e2990e8679/files/7c2c3de4-4ada-4b20-ba58-f790c506b16d.jpg"
-                alt="TITAN Team"
+                src="https://cdn.poehali.dev/projects/c741f24d-2d73-4617-8883-92e2990e8679/files/1bc66ea9-1f3e-495c-ad93-85cc5493817f.jpg"
+                alt="HATE NOOBSS Team"
                 className="relative rounded-lg neon-border w-full"
               />
             </div>
@@ -501,12 +501,12 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <div className="flex items-center gap-3">
-              <div className="text-2xl font-bold neon-glow">TITAN</div>
+              <div className="text-2xl font-bold neon-glow">HATE NOOBSS</div>
               <Badge variant="outline" className="border-primary text-primary">PRO TEAM</Badge>
             </div>
             
             <div className="text-sm text-muted-foreground">
-              © 2024 TITAN Clan. Все права защищены.
+              © 2024 HATE NOOBSS Clan. Все права защищены.
             </div>
             
             <div className="flex gap-4">
